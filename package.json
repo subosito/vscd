@@ -1,0 +1,23 @@
+{
+  "name": "vscd",
+  "version": "0.1.0",
+  "description": "Visual Studio Code customization tool",
+  "main": "index.js",
+  "scripts": {
+    "apply": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subosito/vscd.git"
+  },
+  "author": "Alif Rachmawadi <code@subosito.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subosito/vscd/issues"
+  },
+  "homepage": "https://github.com/subosito/vscd#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "fs-extra": "^0.30.0"
+  }
+}

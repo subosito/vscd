@@ -1,0 +1,5 @@
+[
+  { "source": "app_icon.icns", "target": "Code.icns", "checksum": false, "operation": "replace" },
+  { "source": "file_icon.icns", "target": "code_file.icns", "checksum": false, "operation": "replace" },
+  { "source": "workbench.css", "target": "app/out/vs/workbench/workbench.main.css", "checksum": true, "operation": "append" }
+]

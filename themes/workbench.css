@@ -1,0 +1,5 @@
+/** custom status bar **/
+.monaco-workbench>.part.statusbar {
+  background: #333;
+  border-top: 1px solid #403f3f;
+}
