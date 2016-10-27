@@ -2,6 +2,8 @@
 
 [Visual Studio Code](https://code.visualstudio.com) customization tool.
 
+**USE WITH CAUTION!**
+
 This is a simple tool for customization until Visual Studio Code support it natively. You can track [the issue](https://github.com/Microsoft/vscode/issues/1833).
 
 What it does is basically:
