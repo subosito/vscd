@@ -105,7 +105,7 @@ function updateInfo(items, productPath) {
 }
 
 function apply(appPath) {
-  var productPath = path.join(appPath, baseDir, 'app/product.json');
+  var productPath = path.join(appPath, baseDir, 'app', 'product.json');
   var mapFile = path.join(themesDir, 'map.json');
 
   fse.readJsonAsync(mapFile)
